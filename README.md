@@ -3,7 +3,7 @@
 ## **About Me**
 ![Profile views](https://komarev.com/ghpvc/?username=gidtay&color=blue)
 
-I love to be part of the growth story of businesses, with a particular focus on startups, SMEs, venture capital, and impact-driven initiatives. I have experience in various roles across the startup ecosystem (in a scale-up, VCs, accelerators/ incubators, government, and academia).
+I love to be part of the growth story of businesses, with a particular focus on tech, startups, SMEs, and venture capital. I have experience in various roles across the startup ecosystem (in a scale-up, VCs, accelerators/ incubators, government, and academia).
 
 My academic background in economics, data science, and quantitative research, combined with hands-on experience in the startup ecosystem, allows me to bring a data-driven and strategic approach to the challenges businesses face at every stage of growth.
 
