@@ -54,6 +54,10 @@ My academic background in economics, data science, and quantitative research, co
   <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-007ACC?style=flat&logo=python&logoColor=white" /></a>
   <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" /></a>
   <br>
+  <!-- Web Applications -->
+  <img src="https://img.shields.io/badge/Web_Applications-F7DF1E?style=flat&logoColor=black" />
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></a>
+  <br>
   <!-- Machine Learning -->
   <img src="https://img.shields.io/badge/Machine_Learning-F7DF1E?style=flat&logoColor=black" />
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=black" /></a>
