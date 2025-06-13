@@ -48,6 +48,8 @@ My academic background in economics, data science, and quantitative research, co
   <a href="https://www.statsmodels.org/"><img src="https://img.shields.io/badge/Statsmodels-2D3E50?style=flat&logo=python&logoColor=white" /></a>
   <a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" /></a>
   <a href="https://bashtage.github.io/linearmodels/"><img src="https://img.shields.io/badge/linearmodels-333333?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://networkx.org/"><img src="https://img.shields.io/badge/NetworkX-007ACC?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/NLTK-007ACC?style=flat&logo=python&logoColor=white" /></a>
   <br>
   <!-- Data Visualization -->
   <img src="https://img.shields.io/badge/Visualization-F7DF1E?style=flat&logoColor=black" />
@@ -82,6 +84,7 @@ My academic background in economics, data science, and quantitative research, co
   <img src="https://img.shields.io/badge/Data_Manipulation-F7DF1E?style=flat&logoColor=black" />
   <a href="https://www.tidyverse.org/"><img src="https://img.shields.io/badge/Tidyverse-276DC3?style=flat&logo=tidyverse&logoColor=white" /></a>
   <a href="https://dplyr.tidyverse.org/"><img src="https://img.shields.io/badge/dplyr-276DC3?style=flat&logo=r&logoColor=white" /></a>
+  <a href="https://broom.tidymodels.org/"><img src="https://img.shields.io/badge/broom-276DC3?style=flat&logo=r&logoColor=white" /></a>
   <br>
    <!-- Data Visualization -->
   <img src="https://img.shields.io/badge/Visualization-F7DF1E?style=flat&logoColor=black" />
@@ -89,10 +92,12 @@ My academic background in economics, data science, and quantitative research, co
   <br>
   <!-- Statistical Models -->
   <img src="https://img.shields.io/badge/Statistical_Models-F7DF1E?style=flat&logoColor=black" />
+  <a href="https://cran.r-project.org/web/packages/lme4/index.html"><img src="https://img.shields.io/badge/lme4-276DC3?style=flat&logo=r&logoColor=white" /></a>
   <a href="https://declaredesign.org/r/estimatr/"><img src="https://img.shields.io/badge/estimatr-276DC3?style=flat&logo=r&logoColor=white" /></a>
   <a href="https://cran.r-project.org/web/packages/car/index.html"><img src="https://img.shields.io/badge/car-276DC3?style=flat&logo=r&logoColor=white" /></a>
   <a href="https://cran.r-project.org/package=lmtest"><img src="https://img.shields.io/badge/lmtest-276DC3?style=flat&logo=r&logoColor=white" /></a>
   <a href="https://cran.r-project.org/web/packages/margins/index.html"><img src="https://img.shields.io/badge/margins-276DC3?style=flat&logo=r&logoColor=white" /></a>
+  <a href="https://r.igraph.org/"><img src="https://img.shields.io/badge/igraph-276DC3?style=flat&logo=r&logoColor=white" /></a>
   <a href="https://cran.r-project.org/package=nnet"><img src="https://img.shields.io/badge/nnet-276DC3?style=flat&logo=r&logoColor=white" /></a>
   <a href="https://cran.r-project.org/web/packages/censReg/index.html"><img src="https://img.shields.io/badge/censReg-276DC3?style=flat&logo=r&logoColor=white" /></a>
 </p>
